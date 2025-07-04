@@ -1,1 +1,0 @@
-# btcfren-nostr-v1
